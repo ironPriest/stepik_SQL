@@ -1,0 +1,3 @@
+SELECT amount AS quantityOfIdiots
+FROM book
+WHERE title =  'Идиот'
